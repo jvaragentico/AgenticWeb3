@@ -2,7 +2,9 @@
 
 ChainLens is a responsive EVM wallet dashboard. Visitors can connect an injected wallet, view the wallet's native-token balance, follow the current top-10 cryptocurrency market rates, and optionally trigger a Telegram notification when a wallet connects.
 
-**Live demo:** https://chainlens-wallet.jvar-agentic.chatgpt.site/
+## Live demo
+
+**[Open ChainLens →](https://chainlens-wallet.jvar-agentic.chatgpt.site/)**
 
 ## Features
 
