@@ -1,0 +1,14 @@
+{
+  "name": "chainlens",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive EVM wallet balance dashboard with market prices and Telegram notifications.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
+
